@@ -1,0 +1,326 @@
+{
+  "dominanceData": [
+    { "id": 1, "currency": "ETH", "dominance": 40.2 },
+    { "id": 2, "currency": "ETH", "dominance": 15.3 }
+  ],
+  "infoItems": [
+    {
+      "id": 1,
+      "value": "$823,451,000",
+      "num": "+3%"
+    }
+  ],
+  "volumes": [
+    {
+      "id": 1,
+      "value": "$23,451,000"
+    }
+  ],
+  "Gas": [
+    {
+      "id": 1,
+      "value": "36",
+      "text": "Gwei"
+    }
+  ],
+  "Lan": [
+    { "id": 1, "label": "Eng", "value": "Eng" },
+    { "id": 2, "label": "Epo", "value": "Epo" },
+    { "id": 3, "label": "Fra", "value": "Fra" },
+    { "id": 4, "label": "Spa", "value": "Spa" },
+    { "id": 5, "label": "Ger", "value": "Ger" }
+  ],
+  "currency": [
+    { "id": 1, "label": "usd", "value": "usd" },
+    { "id": 2, "label": "eur", "value": "eur" },
+    { "id": 3, "label": "gbp", "value": "gbp" },
+    { "id": 4, "label": "jpy", "value": "jpy" },
+    { "id": 5, "label": "cad", "value": "cad" }
+  ],
+  "table": [
+    {
+      "id": 1,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+
+    } ,
+    {
+      "id": 2,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 3,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 4,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 5,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 6,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 7,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 8,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 9,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 10,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 11,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 12,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 13,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 14,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 15,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 16,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 17,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 18,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 19,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 20,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 21,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 22,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    },
+    {
+      "id": 23,
+      "label": "ETH",
+      "name": "Ethereum",
+      "url": "https://s3.eu-central-1.amazonaws.com/bbxt-static-icons/type-id/png_16/f231d7382689406f9a50dde841418c64.png",
+      "cap": 10000000,
+      "roi": "5X",
+      "aroi": "24X",
+      "ido": 12,
+      "raised": 265000000,
+      "entry": 250000
+    }
+   ],
+   "time": [
+    { "id": 1, "label":"24h", "value": "24h" },
+    { "id": 2, "label":"7d" , "value": "7d" },
+    { "id": 3, "label":"1m" , "value": "1m" },
+    { "id": 4, "label":"3m" , "value": "3m" },
+    { "id": 5, "label":"1y" , "value": "1y" }
+  ]
+}
